@@ -1,1 +1,1 @@
-"# szkoleniaLait"
+newfix
